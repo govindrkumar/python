@@ -25,7 +25,7 @@ Here’s a list of some of the projects included in this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Python-Projects.git
+   git clone https://github.com/govindrkumar/python.git
    ```
 2. Navigate to the project directory:
    ```bash
