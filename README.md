@@ -29,7 +29,7 @@ Here’s a list of some of the projects included in this repository:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Python-Projects
+   cd python
    ```
 
 ### Running the Programs
