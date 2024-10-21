@@ -55,11 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the Python community for their resources and support.
 - Special thanks to my mentors and peers who have guided me along the way.
 ```
-
-### How to Use the README
-
-1. **Copy and Paste**: Copy the above content and paste it into a new file named `README.md` in your repository.
-
-2. **Customize**: Replace `yourusername` with your actual GitHub username.
-
-3. **Add More Details**: Feel free to add more sections, such as usage examples or explanations of specific programs, if you'd like to provide additional context.
