@@ -54,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the Python community for their resources and support.
 - Special thanks to my mentors and peers who have guided me along the way.
-```
